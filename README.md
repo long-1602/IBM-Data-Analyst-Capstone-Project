@@ -4,5 +4,5 @@ Week 1:
 Week 2: Data Wrangling
 Week 3: Outliers and Correlation
 Week 4: Data Visualization and SQL
-Week 5:
+Week 5: Creating a Dashboard
 Week 6:

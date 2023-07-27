@@ -9,6 +9,6 @@ Week 3: Outliers and Correlation
 
 Week 4: Data Visualization and SQL
 
-Week 5: Creating a Dashboard
+Week 5: Creating a Dashboard in IBM Cognos
 
 Week 6:

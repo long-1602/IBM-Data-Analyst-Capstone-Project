@@ -1,5 +1,5 @@
 # IBM-Data-Analyst-Capstone-Project
-This is the final course and project for the IBM Data Analyst Professional Certification. This capstone project uses Python and SQL queries. The Python libraries used are NumPy, Seaborn, Matplotlib, and Pandas. Data was analyzed from an online survey Stack Overflow put out in 2019 for software professionals. The data was used to get insights into current technology usage & future technology trend. 
+This is the final course and project for the IBM Data Analyst Professional Certification. This capstone project uses Python and SQL queries. The Python libraries used are NumPy, BeautifulSoup, Seaborn, Matplotlib, and Pandas. Data was analyzed from an online survey Stack Overflow put out in 2019 for software professionals. The data was used to get insights into current technology usage & future technology trend. 
 
 Syllabus:
 
